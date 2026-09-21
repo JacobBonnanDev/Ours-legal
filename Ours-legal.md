@@ -78,7 +78,7 @@ Some features (hosting shared budgets and cloud backup) require a paid subscript
 ## Your Choices and Rights
 
 - **Use without an account.** You can use core budgeting features locally without signing in.
-- **Access and deletion.** You can delete budgets and transactions within the App. To request deletion of your account and associated backend data, contact us at the email below.
+- **Access and deletion.** You can delete individual budgets and transactions within the App. You can also permanently delete your entire account and all associated backend data at any time from Profile → Delete Account. You may also contact us at the email below.
 - **Leaving shared budgets.** You can leave a shared budget at any time, which removes your access to it.
 - Depending on where you live, you may have additional rights (such as access, correction, or deletion) under laws like GDPR or CCPA. Contact us to exercise these rights.
 
